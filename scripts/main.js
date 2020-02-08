@@ -1,5 +1,8 @@
 
 let myImage = document.querySelector('img');
+/*yButton.onclick = function() {
+  setUserName();
+}
 
 myImage.onclick = function(){
     let mySrc = myImage.getAttribute('src');
@@ -21,7 +24,6 @@ if(!localStorage.getItem('name')) {
 } else {
   let storedName = localStorage.getItem('name');
   myHeading.textContent = '国士无双:韓信, ' + storedName;
-}
-myButton.onclick = function() {
-  setUserName();
-}
+}*/
+
+
